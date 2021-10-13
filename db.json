@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "date": "2022-02-02T03:00:00.000Z",
+      "week_day": "Quarta",
+      "description": "Venda de carro",
+      "value": 1500000,
+      "category": "TED",
+      "type": "credit",
+      "id": 1
+    },
+    {
+      "date": "2021-10-12T03:00:00.000Z",
+      "week_day": "Terça",
+      "description": "Cadeira",
+      "value": 50000,
+      "category": "Crédito",
+      "type": "debit",
+      "id": 2
+    },
+    {
+      "date": "2021-10-15T03:00:00.000Z",
+      "week_day": "Sexta",
+      "description": "Vendas",
+      "value": 250000,
+      "category": "Pix",
+      "type": "credit",
+      "id": 3
+    },
+    {
+      "date": "2021-05-01T03:00:00.000Z",
+      "week_day": "Sábado",
+      "description": "Lanche na rua",
+      "value": 1200,
+      "category": "Débito",
+      "type": "debit",
+      "id": 5
+    }
+  ]
+}
